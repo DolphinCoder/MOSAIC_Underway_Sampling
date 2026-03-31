@@ -281,7 +281,7 @@ Work in progress.
 
 ## APPENDIX B: VIDEO & IMAGE FILES
 
-**Videos coming soon!!!**
+![Video protocol](https://youtu.be/XGT-FZi2hi4?si=DsedQEnom17YF58_)
 
 ![CarboyOutflowMeasurement)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/CarboyOutflowMeasurement.JPG)
 
