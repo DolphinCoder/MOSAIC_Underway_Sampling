@@ -281,7 +281,7 @@ Work in progress.
 
 ## APPENDIX B: VIDEO & IMAGE FILES
 
-**Videos coming soon!!!**
+[YouTube Video: MOSAIC protocol for underway shipboard eDNA sampling](https://youtu.be/XGT-FZi2hi4?si=H9BYmO5Ew3jeWMKw)
 
 ![CarboyOutflowMeasurement)](https://github.com/CalCOFI/MOSAIC_Underway_Sampling/blob/main/Images/CarboyOutflowMeasurement.JPG)
 
